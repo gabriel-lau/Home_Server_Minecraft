@@ -1,0 +1,3 @@
+class LogData {
+    constructor()
+}
